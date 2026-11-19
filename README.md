@@ -106,13 +106,22 @@
 
 ---
 
-<h3 align="center">📂 Github Stats</h3>
+
+<h3 align="center">📂 GitHub Stats</h3>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="./profile/streak.svg" alt="GitHub Streak" />
-  </a>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./profile/streak-dark.svg"
+    />
+    <img
+      src="./profile/streak-light.svg"
+      alt="GitHub Streak Stats"
+    />
+  </picture>
 </p>
+
 
 ---
 
