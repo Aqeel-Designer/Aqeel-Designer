@@ -34,33 +34,40 @@
 
 <h3 align="center">⚒ Things I Code With</h3>
 
-<p align="center">
+<div align="center">
   <h2>Frontend Development</h2>
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind;perline=10"
+    src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&perline=10"
     alt="Frontend Technologies"
   />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <h2>Backend Development & Database</h2>
-  <img
-    src="https://skillicons.dev/icons?i=php,cpp,cs,nodejs,nextjs,express,mongodb,mysql,postgres,supabase&perline=13"
-    alt="Backend Development and Database"
-  />
-  <img src="https://cdn.simpleicons.org/shadcnui/808080" width="44" height="44" alt="shadcn/ui" />
-  <img src="https://cdn.simpleicons.org/framer/0055FF" width="44" height="44" alt="Framer" />
-</p>
+  <p>
+    <img
+      src="https://skillicons.dev/icons?i=php,cpp,cs,nodejs,nextjs,express,mongodb,mysql,postgres,supabase&perline=13"
+      alt="Backend Development and Database"
+      valign="middle"
+    />
+    <img src="https://cdn.simpleicons.org/shadcnui/808080" width="44" height="44" alt="shadcn/ui" valign="middle" />
+    <img src="https://cdn.simpleicons.org/framer/0055FF" width="44" height="44" alt="Framer" valign="middle" />
+  </p>
+</div>
 
-<p align="center">
+<div align="center">
   <h2>Tools & Platforms</h2>
-  <img
-    src="https://skillicons.dev/icons?i=wordpress,shopify,git,github,vscode,postman,vercel,figma,ps,ai&perline=13"
-    alt="ools & Platforms"
-  />
-  <img src="https://cdn.simpleicons.org/cursor/808080" width="44" height="44" alt="Cursor" />
-  <img src="https://jsdelivr.net" width="44" height="44" alt="ChatGPT" />
-</p>
+  <p>
+    <img
+      src="https://skillicons.dev/icons?i=wordpress,git,github,vscode,postman,vercel,figma,ps,ai&perline=13"
+      alt="Tools & Platforms"
+      valign="middle"
+    />
+    <img src="https://cdn.simpleicons.org/shopify/95BF47" width="44" height="44" alt="Shopify" valign="middle" />
+    <img src="https://cdn.simpleicons.org/cursor/808080" width="44" height="44" alt="Cursor" valign="middle" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" width="44" height="44" alt="ChatGPT" valign="middle" />
+  </p>
+</div>
 
 
 
