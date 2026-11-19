@@ -45,7 +45,7 @@
 <p align="center">
   <h2>Backend Development & Database</h2>
   <img
-    src="https://skillicons.dev/icons?i=php,cpp,cs,nodejs,nextjs,express,mongodb,mysql,postgres,supabase&perline=10"
+    src="https://skillicons.dev/icons?i=php,cpp,cs,nodejs,nextjs,express,mongodb,mysql,postgres,supabase&perline=13"
     alt="Backend Development and Database"
   />
   <img src="https://cdn.simpleicons.org/shadcnui/808080" width="44" height="44" alt="shadcn/ui" />
