@@ -76,20 +76,33 @@
 <h3 align="center">🤝 How I Can Help You</h3>
 
 <p align="center">
-  🚀 Build custom Next JS web apps that are fast, clean and ready to deploy.
+  🚀 Build full-stack MERN applications with modern interfaces, powerful backend functionality and seamless database integration.
 </p>
+
 <p align="center">
-  ⚡ Turn your idea into a polished SaaS MVP with auth, dashboards and real users in mind.
+  ⚡ Turn your idea into a polished SaaS MVP with authentication, dashboards, database integration and real users in mind.
 </p>
+
 <p align="center">
-  🌐 Design and develop modern landing pages that clearly explain what you do and convert visitors.
+  💻 Develop dynamic PHP & MySQL applications, management systems, admin panels and custom business solutions.
 </p>
+
 <p align="center">
-  💳 Set up payments and subscriptions so you can start charging users without worrying about the tech.
+  🌐 Design and develop professional WordPress websites using Elementor, WooCommerce and custom functionality.
 </p>
+
 <p align="center">
-  🐛 Fix bugs, refactor messy code and debug issues that slow your product or your team down.
+  🛒 Build and customize Shopify stores with engaging storefronts, product pages and e-commerce features.
 </p>
+
+<p align="center">
+  💳 Set up payment gateways and subscription systems so you can start charging users without worrying about the tech.
+</p>
+
+<p align="center">
+  🐛 Fix bugs, refactor messy code, add new features and improve existing websites and applications.
+</p>
+
 
 ---
 
